@@ -1,0 +1,1 @@
+# copiloto-vendas-ia
